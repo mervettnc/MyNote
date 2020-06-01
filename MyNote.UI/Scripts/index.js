@@ -1,6 +1,8 @@
 ﻿//GLOBAL VARIABLES
 
-var apiUrl = "https://localhost:44361/";
+//var apiUrl = "https://localhost:44361/";
+var apiUrl = "https://mynoteapi.mervetutuncu.com/";
+
 var selectedNote = null;
 var selectedLink = null;
 
